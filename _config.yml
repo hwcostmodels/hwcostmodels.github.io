@@ -41,13 +41,21 @@ features                                  :
   - title                                 : Instructions
     description                           : |
                                             * Download the App from the link provided above
-                                            * Install it and open it 
+
+                                            * Install it and open it
+
                                             * Click allow when the app asks permission to access storage
+
                                             * Bring the app to the foreground, and let it run. It takes around 10-20 minutes to complete, depending on the device
+
                                             * Please don't lock the phone or use it while the app is running 
+
                                             * Please have the mobile connected to the internet through-out the process
+
                                             * When the app completes execution, it will send the latency report automatically to a backend server, and will notify you of completion
+
                                             * In-case there is a failure, you will be notified. Please contact us
+                                            
     fontawesome_icon_name                 : book
 
     #  - title                                 : Video Support

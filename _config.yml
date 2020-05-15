@@ -12,7 +12,10 @@ playstore_link                            :                                     
 app_icon                                  : assets/appstore.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : DNN Performance Profiler                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Performance estimation of Image recognition DNNs on your mobile-phone 
+app_description                           : |
+                                            Performance estimation of Image recognition DNNs on your mobile-phone 
+
+                                            Click the link to install and follow the instructions below
 
 enable_smart_app_banner                   : false                                    # Set to true to show a smart app banner at top of page on mobile devices.
 

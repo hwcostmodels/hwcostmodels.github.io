@@ -38,36 +38,36 @@ features                                  :
     #    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     #    fontawesome_icon_name                 : magic
     
-     - title                                 : Download the App from the link provided above
-       description                           :  
+     - title                                 : I1
+       description                           : Download the App from the link provided above. 
        fontawesome_icon_name                 : book
 
-     - title                                 : Install it and open it
-       description                           : 
+     - title                                 : I2
+       description                           : Install it and open it.
        fontawesome_icon_name                 : book
     
-     - title                                 : Click allow when the app asks permission to access storage.
-       description                           : 
+     - title                                 : I3
+       description                           : Click allow when the app asks permission to access storage.
        fontawesome_icon_name                 : book
     
-     - title                                 : Bring the app to the foreground, and let it run. It takes around 10-20 minutes     to complete, depending on the device
-       description                           : 
+     - title                                 : I4
+       description                           : Bring the app to the foreground, and let it run. It takes around 10-20 minutes to complete, depending on the device.
        fontawesome_icon_name                 : book
      
-     - title                                 : Please don't lock the phone or use it while the app is running
-       description                           : 
+     - title                                 : I5
+       description                           : Please don't lock the phone or use it while the app is running.
        fontawesome_icon_name                 : book
     
-     - title                                 : Please have the mobile connected to the internet through-out the process.
-       description                           : 
+     - title                                 : I6
+       description                           : Please have the mobile connected to the internet through-out the process.
        fontawesome_icon_name                 : book
     
-     - title                                 : When the app completes execution, it will send the latency report automatically     to a backend server, and will notify you of completion
-       description                           : 
+     - title                                 : I7
+       description                           : When the app completes execution, it will send the latency report automatically to a backend server, and will notify you of completion
        fontawesome_icon_name                 : book
     
-     - title                                 : In-case there is a failure, you will be notified. Please contact us
-       description                           : 
+     - title                                 : I8
+       description                           : In-case there is a failure, you will be notified. Please contact us
        fontawesome_icon_name                 : book
 
 

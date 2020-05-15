@@ -39,7 +39,7 @@ features                                  :
     #    fontawesome_icon_name                 : magic
     
   - title                                 : Instructions
-    description                           : |+
+    description                           : |
                                             * Download the App from the link provided above
                                             * Install it and open it 
                                             * Click allow when the app asks permission to access storage

@@ -38,50 +38,37 @@ features                                  :
     #    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     #    fontawesome_icon_name                 : magic
     
-  - title                                 : Instructions
-    description                           :  |
-                                            Download the App from the link provided above. Install it and open it
-                                            Click allow when the app asks permission to access storage
-                                            Bring the app to the foreground, and let it run. It takes around 10-20 minutes to complete, depending on the device
-                                            Please don't lock the phone or use it while the app is running 
-                                            Please have the mobile connected to the internet through-out the process
-                                            When the app completes execution, it will send the latency report automatically to a backend server, and will notify you of completion
-                                            In-case there is a failure, you will be notified. Please contact us
+     - title                                 : Instructions
+       description                           : Download the App from the link provided above. 
+       fontawesome_icon_name                 : book
 
-    fontawesome_icon_name                 : book
-
-    #  - title                                 : Video Support
-    #    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    #    fontawesome_icon_name                 : play-circle
-    #
-    #  - title                                 : Automatic Icon and Metadata
-    #    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    #    fontawesome_icon_name                 : sync
-    #
-    #  - title                                 : Easy to Tweak
-    #    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    #    fontawesome_icon_name                 : adjust
-    #  
-    #  - title                                 : Feature List
-    #    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    #    fontawesome_icon_name                 : star
-    #
-    #  - title                                 : Smart App Banner
-    #    description                           : Display a smart app banner on iOS devices.
-    #    fontawesome_icon_name                 : arrow-alt-circle-down
-    #
-    #  - title                                 : Social Links
-    #    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    #    fontawesome_icon_name                 : link
-    #
-    #  - title                                 : FontAwesome Support
-    #    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    #    fontawesome_icon_name                 : info-circle
-    #
-    #  - title                                 : # New Feature Title
-    #    description                           : # New Feature Description
-    #    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+     - title                                 :
+       description                           : Install it and open it.
+       fontawesome_icon_name                 : play-circle
+    
+     - title                                 : Automatic Icon and Metadata
+       description                           : Click allow when the app asks permission to access storage.
+       fontawesome_icon_name                 : sync
+    
+     - title                                 : Easy to Tweak
+       description                           : Bring the app to the foreground, and let it run. It takes around 10-20 minutes to complete, depending on the device.
+       fontawesome_icon_name                 : adjust
+     
+     - title                                 : Feature List
+       description                           : Please don't lock the phone or use it while the app is running.
+       fontawesome_icon_name                 : star
+    
+     - title                                 : Smart App Banner
+       description                           : Please have the mobile connected to the internet through-out the process.
+       fontawesome_icon_name                 : arrow-alt-circle-down
+    
+     - title                                 : Social Links
+       description                           : When the app completes execution, it will send the latency report automatically to a backend server, and will notify you of completion
+       fontawesome_icon_name                 : link
+    
+     - title                                 : FontAwesome Support
+       description                           : In-case there is a failure, you will be notified. Please contact us
+       fontawesome_icon_name                 : info-circle
 
 
 # Theme Settings

@@ -15,7 +15,7 @@ app_price                                 :                                     
 app_description                           : >-
                                             Performance estimation of Image recognition DNNs on your mobile-phone. 
                                             Click the icon to download and install the app. 
-                                            Follow the instructions below (click the mobile icon for a video walkthrough). 
+                                            Follow the instructions below (Click the mobile here for a video walkthrough). 
 
 enable_smart_app_banner                   : false                                    # Set to true to show a smart app banner at top of page on mobile devices.
 

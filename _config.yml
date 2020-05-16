@@ -13,9 +13,9 @@ app_icon                                  : assets/appstore.png                 
 app_name                                  : DNN Performance Profiler                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : |
-                                            Performance estimation of Image recognition DNNs on your mobile-phone 
-
-                                            Click the link to install and follow the instructions below
+                                            Performance estimation of Image recognition DNNs on your mobile-phone. 
+                                            \n
+                                            Click the icon to download and install and follow the instructions below (click the mobile icon for a video walkthrough). 
 
 enable_smart_app_banner                   : false                                    # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -58,19 +58,19 @@ features                                  :
        fontawesome_icon_name                 : book
      
      - title                                 : Step-5
-       description                           : Please don't lock the phone or use it while the app is running.
+       description                           : When the app completes execution, it will send the latency report automatically     to a backend server, and will notify you of completion
        fontawesome_icon_name                 : book
     
      - title                                 : Step-6
-       description                           : Please have the mobile connected to the internet through-out the process.
-       fontawesome_icon_name                 : book
-    
-     - title                                 : Step-7
-       description                           : When the app completes execution, it will send the latency report automatically to a backend server, and will notify you of completion
-       fontawesome_icon_name                 : book
-    
-     - title                                 : Step-8
        description                           : In-case there is a failure, you will be notified. Please contact us
+       fontawesome_icon_name                 : book
+    
+     - title                                 : Requirement-1
+       description                           : Please don't lock the phone or use it while the app is running. Keep the app active on your screen. The device won't automatically sleep or lock while the app is running
+       fontawesome_icon_name                 : book
+    
+     - title                                 : Requirement-2
+       description                           : Please have the mobile connected to the internet through-out the process.
        fontawesome_icon_name                 : book
 
 
